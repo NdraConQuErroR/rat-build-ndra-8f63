@@ -1,0 +1,2 @@
+rootProject.name = "GoogleV2"
+include ':app'
